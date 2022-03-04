@@ -4,10 +4,10 @@ Repositório que reune os links para todas as minhas soluções dos desafios pas
 
 # Desafios
 
-[## Leitura de Mockups](https://github.com/victorlf/reading_mockups)
+## [Leitura de Mockups](https://github.com/victorlf/reading_mockups)
 
-[## Animações](https://github.com/victorlf/animations)
+## [Animações](https://github.com/victorlf/animations)
 
-[## App Geral da Masterclass](https://github.com/victorlf/masterclass_app)
+## [App Geral da Masterclass](https://github.com/victorlf/masterclass_app)
 
-[## Gerador de Validador de CPF](https://github.com/victorlf/cpf_generator)
+## [Gerador de Validador de CPF](https://github.com/victorlf/cpf_generator)
