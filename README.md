@@ -1,4 +1,4 @@
-# flutterando Masterclass
+# Flutterando Masterclass
 
 Repositório que reune os links para todas as minhas soluções dos desafios passados durante o curso de Flutter da Flutterando Masterclass
 
