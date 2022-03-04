@@ -10,4 +10,4 @@ Repositório que reune os links para todas as minhas soluções dos desafios pas
 
 ## [App Geral da Masterclass](https://github.com/victorlf/masterclass_app)
 
-## [Gerador de Validador de CPF](https://github.com/victorlf/cpf_generator)
+## [Gerador e Validador de CPF](https://github.com/victorlf/cpf_generator)
